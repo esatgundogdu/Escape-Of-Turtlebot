@@ -1,5 +1,5 @@
 # Escape-Of-Turtlebot
-- This repository includes the solution for the "Escape of Turtlebot" problem which is an assignment given in Robotics course at Istanbul Technical University. Details about the assignment is given in file named "escape_of_turtlebot.pdf". The solution of the problem is in "assignment1/a1_answer.py".
+- This repository includes the solution for the "Escape of Turtlebot" problem which is an assignment given in Robotics course at Istanbul Technical University. Details about the assignment are given in file named "escape_of_turtlebot.pdf". The solution of the problem is in "assignment1/a1_answer.py".
 - Running instructions are given in pdf file.
 
 
